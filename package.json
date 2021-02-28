@@ -1,0 +1,15 @@
+{
+  "name": "booststrap",
+  "version": "1.0.0",
+  "description": "Proyecto Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://evisoncy@bitbucket.org/evisoncy/front.git"
+  },
+  "author": "Evison cy",
+  "license": "ISC"
+}
