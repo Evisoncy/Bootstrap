@@ -1,20 +1,16 @@
 .jumbotron {
-    background-color: yellow;
-}
-
-.col-sm-4 {
-    padding: 5px;
+    background-color: rgb(182, 192, 184);
 }
 
 footer {
     padding: 10px 10px 0px 10px;
-    background-color: yellow;
+    background-color: rgb(182, 192, 184);
     margin-bottom: 0px;
     margin-top: 10px;
 }
 
 .card-hotel {
-    flex: 1 200px;
+    flex: 1 250px;
     padding: 2px 5px 2px 5px;
     margin-top: 10px;
 }
