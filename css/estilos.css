@@ -18,3 +18,7 @@ footer {
 .btn-reserva {
     width: 100%;
 }
+
+.card-footer {
+    padding: 50px
+}
